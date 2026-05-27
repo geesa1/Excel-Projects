@@ -1,6 +1,5 @@
 # Data Job Analysis Dashboard 
-<img width="1893" height="904" alt="Data Job Analysis Dashboard" src="https://github.com/user-attachments/assets/4517e8ad-7e2a-43c5-bb4a-48ee2650e79a" />
-
+<img width="1828" height="859" alt="Data Job Analysis Dashboard" src="https://github.com/user-attachments/assets/ea412fb3-dd20-406e-9864-9f18909a72eb" />
 
 ## Introduction
 I wanted to explore the data job market to understand how salaries vary across different factors, which positions and skills are trending, and which platforms are most effective for finding data-related jobs.  
