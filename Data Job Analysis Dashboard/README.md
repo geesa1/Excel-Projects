@@ -57,7 +57,7 @@ Shows the most in-demand skills in the dataset and the median salary associated 
 - A small number of job platforms dominate job postings, indicating that candidates can improve their job search efficiency by focusing on a few key sources.
 - Job demand is not evenly distributed across regions and roles, with some countries offering more opportunities than others and certain roles appearing more frequently, reflecting where hiring activity is most concentrated in the data job market.  
 - The most in-demand skills are associated with varying salary levels, and the top skills are not necessarily the highest paid, showing how skill demand and compensation are distributed across the market.
-- Remote opportunities remain a meaningful portion of the dataset, showing that flexible work arrangements are still an important feature of the data industry.
+- Remote opportunities exist but are limited in proportion, suggesting that traditional work arrangements still dominate the data job market in 2023.
 
 ## Conclusion
 This project provided a structured view of the 2023 data job market by transforming raw job posting data into an interactive Excel dashboard. It highlights how salary levels, job demand, and skill requirements vary within the industry and helps identify practical insights for job seekers, such as where opportunities are concentrated and which skills are most valuable.
