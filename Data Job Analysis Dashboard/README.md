@@ -29,26 +29,26 @@ The dashboard allows users to dynamically filter insights using:
 All KPIs and visualizations update automatically based on the selected inputs.
 
 ### KPIs Included
-1. Median Salary
+1. Median Annual Salary
 2. Top Hiring Platform
 3. Total Job Count
 4. Top Skill
 5. Remote Job Count
 
 ### Visualizations
-1. Median Salary by Job Title:  
-Compares salary levels across different data-related roles.  
+1. Median Annual Salary by Job Title:  
+Compares annual salary levels across different data-related roles.  
 <img width="675" height="307" alt="Title vs salary" src="https://github.com/user-attachments/assets/d4035f98-52de-44ef-b173-785c0fd65ede" />  
 
 
-2. Median Salary by Job Type:  
-Compares salary levels based on employment type.  
+2. Median Annual Salary by Job Type:  
+Compares annual salary levels based on employment type.  
 <img width="662" height="242" alt="type vs salary" src="https://github.com/user-attachments/assets/8ff64f14-f136-4906-8b94-3febe03859da" />
  
 
 
-3. Median Salary of Top 10 Skills:  
-Shows the most in-demand skills in the dataset and the median salary associated with job postings requiring those skills.  
+3. Median Annual Salary of Top 10 Skills:  
+Shows the most in-demand skills in the dataset and the median annual salary associated with job postings requiring those skills.  
 <img width="798" height="549" alt="skills vs salary" src="https://github.com/user-attachments/assets/1d9e30c9-c6d4-46e3-bc6b-efbde4d4a81e" />
  
 
